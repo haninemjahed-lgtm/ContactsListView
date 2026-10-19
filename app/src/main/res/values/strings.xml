@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="titre_app">Contacts</string>
+    <string name="hint_contact">Nom du contact</string>
+    <string name="btn_ajouter">Ajouter</string>
+    <string name="btn_modifier">Modifier</string>
+    <string name="msg_aucune_selection">Sélectionnez d\'abord un contact dans la liste</string>
+    <string name="msg_nom_vide">Le nom ne peut pas être vide</string>
+    <string name="msg_nom_existant">Ce contact existe déjà dans la liste</string>
+    <string name="titre_supprimer">Suppression</string>
+    <string name="msg_confirmation_supprimer">Voulez-vous vraiment supprimer « %1$s » ?</string>
+    <string name="btn_oui">Oui</string>
+    <string name="btn_non">Non</string>
+    <string name="desc_avatar">Avatar du contact</string>
+</resources>
